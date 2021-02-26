@@ -62,7 +62,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'CUCHO',
         description: 'MUSCOVADO SUGAR',
         origins: 'Guatemala',
-        itemImg: img6,
+        itemImg: "./static/media/workshop-cucho.29b37c7c.png",
         qty: 1,
         price: '11.00',
     }
