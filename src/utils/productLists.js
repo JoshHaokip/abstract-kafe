@@ -1,3 +1,11 @@
+import img1 from '../images/workshop-danche.png';
+import img2 from '../images/workshop-orge-tapia.png';
+import img3 from '../images/workshop-huila.png';
+import img4 from '../images/workshop-gitesi.png';
+import img5 from '../images/workshop-filter-package.png';
+import img6 from '../images/workshop-cucho.png';
+
+
 
  const productLists = [
     {
