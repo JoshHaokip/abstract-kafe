@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+
+  position: relative;
+  min-height: 100vh;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
+  font-smooth: always;
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: subpixel-antialiased;
+
+  overflow-x: hidden;
+}
+
+code {
+  font-family: 'Mulish', sans-serif;
+
+}
