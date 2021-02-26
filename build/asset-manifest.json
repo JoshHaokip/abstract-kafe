@@ -10,13 +10,13 @@
     "index.html": "/abstract-kafe/index.html",
     "static/css/main.2ef6e82f.chunk.css.map": "/abstract-kafe/static/css/main.2ef6e82f.chunk.css.map",
     "static/js/2.1f330056.chunk.js.LICENSE.txt": "/abstract-kafe/static/js/2.1f330056.chunk.js.LICENSE.txt",
-    "static/media/frontpageimg.2baf0916.jpg": "/abstract-kafe/static/media/frontpageimg.2baf0916.jpg",
-    "static/media/workshop-cucho.29b37c7c.png": "/abstract-kafe/static/media/workshop-cucho.29b37c7c.png",
-    "static/media/workshop-danche.769839ad.png": "/abstract-kafe/static/media/workshop-danche.769839ad.png",
-    "static/media/workshop-filter-package.3ac7a0cd.png": "/abstract-kafe/static/media/workshop-filter-package.3ac7a0cd.png",
-    "static/media/workshop-gitesi.d541fc1c.png": "/abstract-kafe/static/media/workshop-gitesi.d541fc1c.png",
-    "static/media/workshop-huila.6ee5ca6e.png": "/abstract-kafe/static/media/workshop-huila.6ee5ca6e.png",
-    "static/media/workshop-orge-tapia.8c256bdc.png": "/abstract-kafe/static/media/workshop-orge-tapia.8c256bdc.png"
+    "media/frontpageimg.2baf0916.jpg": "/abstract-kafe/static/media/frontpageimg.2baf0916.jpg",
+    "media/workshop-cucho.29b37c7c.png": "/abstract-kafe/static/media/workshop-cucho.29b37c7c.png",
+    "media/workshop-danche.769839ad.png": "/abstract-kafe/static/media/workshop-danche.769839ad.png",
+    "media/workshop-filter-package.3ac7a0cd.png": "/abstract-kafe/static/media/workshop-filter-package.3ac7a0cd.png",
+    "media/workshop-gitesi.d541fc1c.png": "/abstract-kafe/static/media/workshop-gitesi.d541fc1c.png",
+    "media/workshop-huila.6ee5ca6e.png": "/abstract-kafe/static/media/workshop-huila.6ee5ca6e.png",
+    "media/workshop-orge-tapia.8c256bdc.png": "/abstract-kafe/static/media/workshop-orge-tapia.8c256bdc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.52d20d7e.js",
