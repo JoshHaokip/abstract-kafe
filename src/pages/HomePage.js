@@ -8,7 +8,7 @@ const HomePage = () => {
         <MainSectionContainer>
             <Title>Coffee/Bakery</Title>
             <Subtitle>have the best of both worlds in the heart of east london</Subtitle>
-            <MainImg src={frontpageimg} alt="Logo" />
+            <MainImg src={"/static/media/frontpageimg.2baf0916.jpg"} alt="Logo" />
         </MainSectionContainer>
 
         </>
