@@ -1,11 +1,3 @@
-import img1 from '../images/workshop-danche.png';
-import img2 from '../images/workshop-orge-tapia.png';
-import img3 from '../images/workshop-huila.png';
-import img4 from '../images/workshop-gitesi.png';
-import img5 from '../images/workshop-filter-package.png';
-import img6 from '../images/workshop-cucho.png';
-
-
 
  const productLists = [
     {
@@ -13,7 +5,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'DANCHE',
         description: 'VIBRANT FRUIT NOTES',
         origins: 'Ethiopia',
-        itemImg: img1,
+        itemImg: "/static/media/workshop-danche.769839ad.png",
         qty: 1,
         price: '12.50',
 
@@ -24,7 +16,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'TAPIA',
         description: 'JUICY & SHERBERTY',
         origins: 'Ecuador',
-        itemImg: img2,
+        itemImg: "/static/media/workshop-orge-tapia.8c256bdc.png",
         qty: 1,
         price: '18.50',
 
@@ -34,7 +26,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'HUILA',
         description: 'BUTTERY BRIOCHE SPREAD',
         origins: 'Colombia',
-        itemImg: img3,
+        itemImg: "/static/media/workshop-huila.6ee5ca6e.png",
         qty: 1,
         price: '10.00',
 
@@ -44,7 +36,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'GITESI',
         description: 'BRIGHT POPS OF CLEAN CITRUS',
         origins: 'Rwanda',
-        itemImg: img4,
+        itemImg: "/static/media/workshop-gitesi.d541fc1c.png",
         qty: 1,
         price: '15.50',
     },
@@ -53,7 +45,7 @@ import img6 from '../images/workshop-cucho.png';
         title: 'TASTING PACK',
         description: 'SEASONAL FILTER RANGE',
         origins: 'Asia',
-        itemImg: img5,
+        itemImg: "/static/media/workshop-filter-package.3ac7a0cd.png",
         qty: 1,
         price: '35.00',
     },
@@ -69,3 +61,4 @@ import img6 from '../images/workshop-cucho.png';
 ]
 
 export default productLists;
+
