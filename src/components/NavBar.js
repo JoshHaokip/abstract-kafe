@@ -17,7 +17,7 @@ const NavBar = ( { cartItemsQty }) => {
             <div className='nav-center'>
 
                 <div className='nav-header'>
-                    <Link to='/abstract-kafe/' className='logo'>
+                    <Link to='/' className='logo'>
                         <p>abstract.kafe</p>
                     </Link>
                     <button type='button' className='nav-toggle' onClick={openSidebar}>

@@ -17,7 +17,7 @@ const SingleProduct = ({item, addCartItem}) => {
             <h1>{item.title}</h1>
             <h3>{item.description}</h3>
 
-            <Link to='/abstract-kafe/products'>
+            <Link to='/products'>
                 <Button>Back</Button>   
             </Link>
             <Button onClick={handleAdd}>Add to Cart</Button>

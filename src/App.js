@@ -43,28 +43,28 @@ function App() {
       <NavBar cartItemsQty={cartItemsQty} />
       <Sidebar cartItemsQty={cartItemsQty}/>
       <Switch>
-        <Route exact path='/abstract-kafe/'>
+        <Route exact path='/'>
           <HomePage />
         </Route>
-        <Route exact path='/abstract-kafe/products'>
+        <Route exact path='/products'>
           <Products items={productLists}/>
         </Route>
-        <Route exact path='/abstract-kafe/cart'>
+        <Route exact path='/cart'>
           <Cart 
              items={cartItems}
              deleteCartItem={deleteCartItem}
              changeQty={changeQty}
           />
         </Route>
-        <Route exact path='/abstract-kafe/checkout'>
+        <Route exact path='/checkout'>
           <Checkout />
         </Route>
-        <Route exact path='/abstract-kafe/about'>
+        <Route exact path='/about'>
           <About />
         </Route>
         <Route 
           exact 
-          path='/abstract-kafe/products/:id' 
+          path='/products/:id' 
           render={(routeProps) => (
             <SingleProduct 
               item={findItem(routeProps.match.params.id)}

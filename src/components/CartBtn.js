@@ -10,7 +10,7 @@ const CartBtn = ({cartItemsQty}) => {
 
     return (
         <Wrapper className='cart-btn-wrapper'>
-            <Link to='/abstract-kafe/cart' className='cart-btn' onClick={closeSidebar}>
+            <Link to='/cart' className='cart-btn' onClick={closeSidebar}>
             <span className='cart-container'>
                 <FaShoppingCart />
                 <span className='cart-value'>{cartItemsQty}</span>
