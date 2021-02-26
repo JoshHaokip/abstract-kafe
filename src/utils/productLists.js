@@ -3,7 +3,7 @@ import img2 from '../images/workshop-orge-tapia.png';
 import img3 from '../images/workshop-huila.png';
 import img4 from '../images/workshop-gitesi.png';
 import img5 from '../images/workshop-filter-package.png';
-import img6 from '../images/workshop-cucho.png';
+import img6 from './static/media/workshop-cucho.29b37c7c.png';
 
 
 
